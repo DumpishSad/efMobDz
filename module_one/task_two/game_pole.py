@@ -1,6 +1,6 @@
 from random import randint
 
-from task_two.cell import Cell
+from module_one.task_two.cell import Cell
 
 class GamePole:
     def __init__(self, N, M):

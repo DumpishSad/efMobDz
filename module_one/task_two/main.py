@@ -1,4 +1,4 @@
-from task_two.game_pole import GamePole
+from module_one.task_two.game_pole import GamePole
 
 if __name__ == "__main__":
     N = 10  # Размер поля
